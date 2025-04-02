@@ -14,7 +14,7 @@ const MinatorLanding = () => {
       </div>
 
       {/* Title */}
-      <h1 className="text-3xl font-bold tracking-wider mb-8">MINATOR</h1>
+      <h1 className="text-3xl font-bold tracking-wider mb-8">SportSphere</h1>
 
       {/* Buttons */}
       <div className="flex space-x-4">
