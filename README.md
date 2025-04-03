@@ -1,4 +1,4 @@
-# Gym Management System
+# Sport Management System(SportSphere)
 
 A web application designed to help manage gym memberships, track member activities, and organize gym-related operations. Built with React, Firebase, and TailwindCSS, this app provides a simple and intuitive interface for gym administrators and staff.
 
